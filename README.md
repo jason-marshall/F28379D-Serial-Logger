@@ -1,1 +1,1 @@
-# F28379D-Serial-Logger
+# ADC-DC-Logger-F28379D
